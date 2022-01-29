@@ -1,5 +1,7 @@
 # qb-tunerjob
 
+made by DrLuckyRp
+
 Edited version of qb-mechanicjob
 
 go to qb-bossmenu and add to config 
